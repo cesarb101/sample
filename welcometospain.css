@@ -1,14 +1,39 @@
 
+body{
+background-color:#ffa500ad;
+}
+
 p{
 font size:18px;
-background-color: orange;
-font-family: Tahoma
+font-family: verdana;
+line-height: 200%;
 }
 
 h1{
 font-family: Impact;
+color: #ff0000;
+}
+
+h2{
+font size: 12
+}
+
+
+h3{
+font-family: Impact;
+color: #ff0000;
 }
 
 img{
-align:left
+display:block
 }
+
+audio{
+float:right;
+}
+
+div{
+float: right;
+}
+
+
